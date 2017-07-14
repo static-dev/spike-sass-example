@@ -1,5 +1,7 @@
 # spike-sass-example
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/static-dev/spike-sass-example.svg)](https://greenkeeper.io/)
+
 an example of how to use sass with a spike project
 
 ## Setup
