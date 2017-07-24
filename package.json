@@ -2,17 +2,17 @@
   "name": "spike-sass-example",
   "description": "an example of how to use sass with a spike project",
   "version": "0.0.1",
-  "author": "static-dev",
+  "author": "Jeff Escalante",
   "ava": {
     "verbose": "true"
   },
   "bugs": "https://github.com/static-dev/spike-sass-example/issues",
   "dependencies": {
+    "autoprefixer": "^7.1.2",
     "node-sass": "^4.5.3",
     "reshape-standard": "^2.0.0",
     "sass-loader": "^6.0.6",
     "spike": "^2.0.0",
-    "spike-css-standards": "^2.0.1",
     "spike-js-standards": "^2.0.2",
     "spike-page-id": "^1.0.0"
   },

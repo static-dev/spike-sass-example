@@ -1,6 +1,6 @@
-# spike-sass-example
+# Spike Sass Example
 
-an example of how to use sass with a spike project
+An example of how to use sass with a spike project
 
 ## Setup
 
